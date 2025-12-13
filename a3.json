@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-13T23:01:15.529Z",
+  "ultimaActualizacion": "2025-12-13T23:59:53.922Z",
   "claves": {
     "ser112": {
       "nombre": "Serkan",
@@ -12,6 +12,12 @@
       "activo": true,
       "fechaRegistro": "2025-06-17",
       "idUnico": "verde_a3_1765666875533"
+    },
+    "mel752": {
+      "nombre": "Mel",
+      "activo": true,
+      "fechaRegistro": "2025-12-13",
+      "idUnico": "mel_a3_1765670393924"
     }
   }
 }
