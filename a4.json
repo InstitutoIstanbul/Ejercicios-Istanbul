@@ -1,4 +1,11 @@
 {
-  "ultimaActualizacion": "",
-  "claves": {}
+  "ultimaActualizacion": "2025-12-13T22:55:42.768Z",
+  "claves": {
+    "ser111": {
+      "nombre": "Kaba",
+      "activo": true,
+      "fechaRegistro": "2025-06-17",
+      "idUnico": "kaba_a4_1765666542771"
+    }
+  }
 }
