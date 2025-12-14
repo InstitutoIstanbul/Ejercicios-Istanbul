@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T06:37:26.070Z",
+  "ultimaActualizacion": "2025-12-14T06:39:46.970Z",
   "claves": {
     "ser111": {
       "nombre": "Kaba",
@@ -15,9 +15,10 @@
     },
     "deneme665": {
       "nombre": "Deneme",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-12-14",
-      "idUnico": "deneme_a4_1765694246073"
+      "idUnico": "deneme_a4_1765694246073",
+      "fechaExpiracion": "2025-12-14"
     }
   }
 }
