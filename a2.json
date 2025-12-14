@@ -78,19 +78,6 @@
       "activo": true,
       "fechaRegistro": "2025-12-14",
       "idUnico": "ser_a2_1765737201560"
-    },
-    "sertap185": {
-      "nombre": "Sertap",
-      "activo": false,
-      "fechaRegistro": "2025-12-14",
-      "idUnico": "sertap_a2_1765740943326",
-      "fechaExpiracion": "2025-12-14"
-    },
-    "kertas233": {
-      "nombre": "Kertas",
-      "activo": false,
-      "fechaRegistro": "2025-12-14",
-      "idUnico": "kertas_a2_1765744598285"
     }
   }
 }
