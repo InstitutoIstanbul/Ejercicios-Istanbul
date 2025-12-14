@@ -1,0 +1,77 @@
+{
+  "ultimaActualizacion": "2024-12-12T00:00:00.000Z",
+  "claves": {
+    "adriana760": {
+      "nombre": "Adriana",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "adriana_a2_1743620365000"
+    },
+    "adriana992": {
+      "nombre": "Adriana",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "adriana_a2_1743620697000"
+    },
+    "adriana251": {
+      "nombre": "Adriana",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "adriana_a2_1743620799000"
+    },
+    "alicia203": {
+      "nombre": "Alicia",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "alicia_a2_1743625020000"
+    },
+    "sabrina245": {
+      "nombre": "Sabrina",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "sabrina_a2_1743625246000"
+    },
+    "patricia684": {
+      "nombre": "Patricia",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "patricia_a2_1743635738000"
+    },
+    "marianela212": {
+      "nombre": "Marianela",
+      "activo": true,
+      "fechaRegistro": "2025-12-02",
+      "idUnico": "marianela_a2_1743635738001"
+    },
+    "karina300": {
+      "nombre": "Karina",
+      "activo": true,
+      "fechaRegistro": "2025-12-03",
+      "idUnico": "karina_a2_1743705688000"
+    },
+    "montenegro203": {
+      "nombre": "Montenegro",
+      "activo": true,
+      "fechaRegistro": "2025-12-03",
+      "idUnico": "montenegro_a2_1743736826000"
+    },
+    "lucila463": {
+      "nombre": "Lucila",
+      "activo": true,
+      "fechaRegistro": "2025-12-04",
+      "idUnico": "lucila_a2_1743826863000"
+    },
+    "elizabeth114": {
+      "nombre": "Elizabeth",
+      "activo": true,
+      "fechaRegistro": "2025-12-05",
+      "idUnico": "elizabeth_a2_1743874065001"
+    },
+    "paula109": {
+      "nombre": "Paula",
+      "activo": true,
+      "fechaRegistro": "2025-12-05",
+      "idUnico": "paula_a2_1743876051000"
+    }
+  }
+}
