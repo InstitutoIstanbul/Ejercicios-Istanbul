@@ -87,7 +87,7 @@
     },
     "kertas233": {
       "nombre": "Kertas",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-12-14",
       "idUnico": "kertas_a2_1765744598285"
     }
