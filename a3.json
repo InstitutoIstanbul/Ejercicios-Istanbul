@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T07:20:37.792Z",
+  "ultimaActualizacion": "2025-12-14T07:26:15.905Z",
   "claves": {
     "activo123": {
       "nombre": "Laura",
@@ -31,7 +31,7 @@
     },
     "kal444": {
       "nombre": "Kal",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2024-12-06",
       "idUnico": "kal_a3_1765696761041",
       "fechaExpiracion": "2025-12-14"
