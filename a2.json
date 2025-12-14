@@ -81,7 +81,7 @@
     },
     "deli865": {
       "nombre": "Deli",
-      "activo": false,
+      "activo": true,
       "fechaRegistro": "2025-12-14",
       "idUnico": "deli_a2_1765746997907",
       "fechaExpiracion": "2025-12-14"
