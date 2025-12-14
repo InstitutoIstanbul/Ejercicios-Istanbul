@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T20:36:38.415Z",
+  "ultimaActualizacion": "2025-12-14T20:42:45.145Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -81,9 +81,10 @@
     },
     "sertap185": {
       "nombre": "Sertap",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-12-14",
-      "idUnico": "sertap_a2_1765740943326"
+      "idUnico": "sertap_a2_1765740943326",
+      "fechaExpiracion": "2025-12-14"
     },
     "kertas233": {
       "nombre": "Kertas",
