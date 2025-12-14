@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T04:15:50.102Z",
+  "ultimaActualizacion": "2025-12-14T04:15:51.177Z",
   "claves": {
     "activo123": {
       "nombre": "Laura",
@@ -24,9 +24,10 @@
     },
     "vencido777": {
       "nombre": "Ana",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-02-15",
-      "idUnico": "ana_a3_1765685669205"
+      "idUnico": "ana_a3_1765685669205",
+      "fechaExpiracion": "2025-12-14"
     }
   }
 }
