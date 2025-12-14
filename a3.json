@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T09:03:47.536Z",
+  "ultimaActualizacion": "2025-12-14T09:05:34.684Z",
   "claves": {
     "activo123": {
       "nombre": "Laura",
@@ -38,9 +38,10 @@
     },
     "kar545": {
       "nombre": "Kar",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-12-14",
-      "idUnico": "kar_a3_1765703027541"
+      "idUnico": "kar_a3_1765703027541",
+      "fechaExpiracion": "2025-12-14"
     }
   }
 }
