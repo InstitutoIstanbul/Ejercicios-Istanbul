@@ -1,11 +1,12 @@
 {
-  "ultimaActualizacion": "2025-12-14T20:36:37.776Z",
+  "ultimaActualizacion": "2025-12-14T20:42:40.591Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-06-17",
-      "idUnico": "analia_a1_1734031465000"
+      "idUnico": "analia_a1_1734031465000",
+      "fechaExpiracion": "2025-12-14"
     },
     "alicia970": {
       "nombre": "Alicia",
