@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-14T06:39:46.970Z",
+  "ultimaActualizacion": "2025-12-14T07:01:59.776Z",
   "claves": {
     "ser111": {
       "nombre": "Kaba",
@@ -12,6 +12,12 @@
       "activo": true,
       "fechaRegistro": "2025-12-13",
       "idUnico": "mel_a4_1765670470475"
+    },
+    "libertad810": {
+      "nombre": "Ser",
+      "activo": true,
+      "fechaRegistro": "2024-12-06",
+      "idUnico": "ser_a4_1765695719776"
     }
   }
 }
