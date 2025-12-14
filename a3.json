@@ -1,31 +1,19 @@
 {
-  "ultimaActualizacion": "2025-12-14T03:01:37.912Z",
+  "ultimaActualizacion": "2024-12-12T00:00:00.000Z",
   "claves": {
-    "ser112": {
-      "nombre": "Serkan",
+    "activo123": {
+      "nombre": "Laura",
       "activo": true,
-      "fechaRegistro": "2025-12-13",
-      "idUnico": "test_1765666074854"
+      "fechaRegistro": "2024-11-15",
+      "fechaExpiracion": "",
+      "idUnico": "laura_a3_1731600000000"
     },
-    "kar675": {
-      "nombre": "Verde",
+    "vencido456": {
+      "nombre": "Pedro",
       "activo": true,
-      "fechaRegistro": "2025-06-17",
-      "idUnico": "verde_a3_1765666875533"
-    },
-    "mel752": {
-      "nombre": "Mel",
-      "activo": true,
-      "fechaRegistro": "2025-12-13",
-      "idUnico": "mel_a3_1765670393924"
-    },
-    "vencido999": {
-      "nombre": "Carlos",
-      "activo": false,
-      "fechaRegistro": "2024-05-15",
-      "fechaExpiracion": "2025-12-14",
-      "idUnico": "carlos_a3_1765681297923",
-      "motivo": "prueba_vencimiento"
+      "fechaRegistro": "2024-05-10",
+      "fechaExpiracion": "",
+      "idUnico": "pedro_a3_1715300000000"
     }
   }
 }
