@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-15T05:49:22.614Z",
+  "ultimaActualizacion": "2025-12-15T06:16:37.455Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -79,6 +79,12 @@
       "fechaRegistro": "2025-12-15",
       "idUnico": "sertab_a2_20251215_sert",
       "fechaExpiracion": "2025-12-15"
+    },
+    "kartal334": {
+      "nombre": "Kartal",
+      "activo": true,
+      "fechaRegistro": "2025-12-15",
+      "idUnico": "kartal_a2_20251215_kart"
     }
   }
 }
