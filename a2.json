@@ -72,13 +72,6 @@
       "activo": true,
       "fechaRegistro": "2025-12-05",
       "idUnico": "paula_a2_1743876051000"
-    },
-    "denem695": {
-      "nombre": "Denem",
-      "activo": false,
-      "fechaRegistro": "2025-12-14",
-      "idUnico": "denem_a2_20251214_dene",
-      "fechaExpiracion": "2025-12-14"
     }
   }
 }
