@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-15T08:58:36.040Z",
+  "ultimaActualizacion": "2025-12-15T09:09:02.874Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -72,6 +72,12 @@
       "activo": true,
       "fechaRegistro": "2025-12-05",
       "idUnico": "paula_a2_1743876051000"
+    },
+    "denem683": {
+      "nombre": "Denem",
+      "activo": true,
+      "fechaRegistro": "2025-12-15",
+      "idUnico": "denem_a2_1765789742879"
     }
   }
 }
