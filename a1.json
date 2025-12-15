@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-15T08:58:27.156Z",
+  "ultimaActualizacion": "2025-12-15T08:58:28.672Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -24,7 +24,7 @@
     },
     "maria882": {
       "nombre": "Maria",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-06-17",
       "idUnico": "maria_a1_1734031995000",
       "fechaExpiracion": "2025-12-15"
