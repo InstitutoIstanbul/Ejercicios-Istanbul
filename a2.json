@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-15T08:28:32.762Z",
+  "ultimaActualizacion": "2025-12-15T08:56:36.986Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -72,6 +72,12 @@
       "activo": true,
       "fechaRegistro": "2025-12-05",
       "idUnico": "paula_a2_1743876051000"
+    },
+    "pulpo894": {
+      "nombre": "Pulpo",
+      "activo": true,
+      "fechaRegistro": "2024-11-06",
+      "idUnico": "pulpo_a2_1765788996988"
     }
   }
 }
