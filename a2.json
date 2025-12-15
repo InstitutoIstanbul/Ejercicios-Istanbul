@@ -73,19 +73,11 @@
       "fechaRegistro": "2025-12-05",
       "idUnico": "paula_a2_1743876051000"
     },
-    "sertab672": {
-      "nombre": "Sertab",
-      "activo": false,
-      "fechaRegistro": "2025-12-15",
-      "idUnico": "sertab_a2_20251215_sert",
-      "fechaExpiracion": "2025-12-15"
-    },
     "kartal334": {
       "nombre": "Kartal",
-      "activo": false,
+      "activo": true,
       "fechaRegistro": "2025-12-15",
       "idUnico": "kartal_a2_20251215_kart",
-      "fechaExpiracion": "2025-12-15"
     }
   }
 }
