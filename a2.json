@@ -82,7 +82,7 @@
     },
     "kartal334": {
       "nombre": "Kartal",
-      "activo": false,
+      "activo": true,
       "fechaRegistro": "2025-12-15",
       "idUnico": "kartal_a2_20251215_kart",
       "fechaExpiracion": "2025-12-15"
