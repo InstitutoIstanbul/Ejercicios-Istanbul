@@ -75,10 +75,9 @@
     },
     "pulpo894": {
       "nombre": "Pulpo",
-      "activo": false,
+      "activo": true,
       "fechaRegistro": "2025-12-15",
       "idUnico": "pulpo_a2_1765786993978",
-      "fechaExpiracion": "2025-12-15"
     }
   }
 }
