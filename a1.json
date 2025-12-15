@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-15T07:20:57.791Z",
+  "ultimaActualizacion": "2025-12-15T07:20:59.434Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -17,10 +17,10 @@
     },
     "horacio614": {
       "nombre": "Horacio",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-06-17",
       "idUnico": "horacio_a1_1734031907000",
-      "fechaExpiracion": "2025-12-14"
+      "fechaExpiracion": "2025-12-15"
     },
     "maria882": {
       "nombre": "Maria",
