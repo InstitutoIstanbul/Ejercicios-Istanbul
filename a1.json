@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-26T05:26:00.148Z",
+  "ultimaActualizacion": "2025-12-26T05:26:01.518Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -101,9 +101,10 @@
     },
     "maeso318": {
       "nombre": "Maeso",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-06-20",
-      "idUnico": "maeso_a1_1734304604000"
+      "idUnico": "maeso_a1_1734304604000",
+      "fechaExpiracion": "2025-12-26"
     },
     "paola948": {
       "nombre": "Paola",
