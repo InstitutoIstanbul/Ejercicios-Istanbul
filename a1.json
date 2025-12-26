@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2025-12-26T05:25:55.917Z",
+  "ultimaActualizacion": "2025-12-26T05:25:57.105Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -73,9 +73,10 @@
     },
     "patricia774": {
       "nombre": "Patricia",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-06-19",
-      "idUnico": "patricia_a1_1734196679000"
+      "idUnico": "patricia_a1_1734196679000",
+      "fechaExpiracion": "2025-12-26"
     },
     "emilse941": {
       "nombre": "Emilse",
