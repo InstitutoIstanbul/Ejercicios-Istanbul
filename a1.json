@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-03-13T18:39:47.662Z",
+  "ultimaActualizacion": "2026-03-13T19:18:49.852Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -342,6 +342,12 @@
       "activo": true,
       "fechaRegistro": "2026-03-13",
       "idUnico": "lola_a1_1773427187664"
+    },
+    "luc?a391": {
+      "nombre": "Luc?a",
+      "activo": true,
+      "fechaRegistro": "2026-03-13",
+      "idUnico": "luc?a_a1_1773429529855"
     }
   }
 }
