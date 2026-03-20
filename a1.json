@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-03-20T05:25:59.183Z",
+  "ultimaActualizacion": "2026-03-20T05:26:01.654Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -220,9 +220,10 @@
     },
     "jorgelina162": {
       "nombre": "Jorgelina",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-09-08",
-      "idUnico": "jorgelina_a1_1738944139000"
+      "idUnico": "jorgelina_a1_1738944139000",
+      "fechaExpiracion": "2026-03-20"
     },
     "stella503": {
       "nombre": "Stella",
