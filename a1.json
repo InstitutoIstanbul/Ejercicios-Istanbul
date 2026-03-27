@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-03-27T05:25:53.478Z",
+  "ultimaActualizacion": "2026-03-27T05:25:54.588Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -241,9 +241,10 @@
     },
     "lara892": {
       "nombre": "Lara",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-09-20",
-      "idUnico": "lara_a1_1740108289000"
+      "idUnico": "lara_a1_1740108289000",
+      "fechaExpiracion": "2026-03-27"
     },
     "magdalena522": {
       "nombre": "Magdalena",
