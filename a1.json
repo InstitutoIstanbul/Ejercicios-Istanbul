@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-04-03T05:25:57.651Z",
+  "ultimaActualizacion": "2026-04-15T16:42:07.196Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -412,6 +412,12 @@
       "activo": true,
       "fechaRegistro": "2026-03-30",
       "idUnico": "karina_a1_1774940666334"
+    },
+    "karina534": {
+      "nombre": "Karina",
+      "activo": true,
+      "fechaRegistro": "2026-04-15",
+      "idUnico": "karina_a1_1776271327197"
     }
   }
 }
