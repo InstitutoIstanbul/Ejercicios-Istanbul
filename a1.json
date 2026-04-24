@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-04-22T00:02:31.776Z",
+  "ultimaActualizacion": "2026-04-24T05:25:54.557Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -283,9 +283,10 @@
     },
     "irma639": {
       "nombre": "Irma",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-10-20",
-      "idUnico": "irma_a1_1742562306000"
+      "idUnico": "irma_a1_1742562306000",
+      "fechaExpiracion": "2026-04-24"
     },
     "marianela212": {
       "nombre": "Marianela",
