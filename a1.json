@@ -419,18 +419,12 @@
       "activo": true,
       "fechaRegistro": "2026-04-15",
       "idUnico": "karina_a1_1776291536419"
-    },
+     },
     "korina833": {
       "nombre": "Korina",
       "activo": true,
       "fechaRegistro": "2026-04-21",
       "idUnico": "korina_a1_1776816151777"
-    },
-    "kar626": {
-      "nombre": "Kar",
-      "activo": true,
-      "fechaRegistro": "2026-04-26",
-      "idUnico": "kar_a1_1777245557873"
     }
   }
 }
