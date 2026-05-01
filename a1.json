@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-04-26T23:19:17.870Z",
+  "ultimaActualizacion": "2026-05-01T12:42:51.247Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -419,12 +419,18 @@
       "activo": true,
       "fechaRegistro": "2026-04-15",
       "idUnico": "karina_a1_1776291536419"
-     },
+    },
     "korina833": {
       "nombre": "Korina",
       "activo": true,
       "fechaRegistro": "2026-04-21",
       "idUnico": "korina_a1_1776816151777"
+    },
+    "maria425": {
+      "nombre": "Maria",
+      "activo": true,
+      "fechaRegistro": "2026-05-01",
+      "idUnico": "maria_a1_1777639371253"
     }
   }
 }
