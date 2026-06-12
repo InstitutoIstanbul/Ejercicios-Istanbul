@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-06-12T05:25:55.395Z",
+  "ultimaActualizacion": "2026-06-12T05:25:57.007Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -80,9 +80,10 @@
     },
     "paula109": {
       "nombre": "Paula",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2025-12-05",
-      "idUnico": "paula_a2_1743876051000"
+      "idUnico": "paula_a2_1743876051000",
+      "fechaExpiracion": "2026-06-12"
     },
     "cecilia760": {
       "nombre": "Cecilia",
