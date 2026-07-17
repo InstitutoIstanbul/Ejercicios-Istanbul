@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-06-12T05:25:58.403Z",
+  "ultimaActualizacion": "2026-07-17T05:25:56.113Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -317,9 +317,10 @@
     },
     "estela181": {
       "nombre": "Estela",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2026-01-10",
-      "idUnico": "estela_a1_1768114227793"
+      "idUnico": "estela_a1_1768114227793",
+      "fechaExpiracion": "2026-07-17"
     },
     "sandra298": {
       "nombre": "Sandra",
