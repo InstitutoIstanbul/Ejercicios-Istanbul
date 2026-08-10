@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-08-07T16:52:58.480Z",
+  "ultimaActualizacion": "2026-08-10T19:52:08.230Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -496,6 +496,12 @@
       "activo": true,
       "fechaRegistro": "2026-08-07",
       "idUnico": "marcela_a1_1786121578480"
+    },
+    "suyai862": {
+      "nombre": "Suyai",
+      "activo": true,
+      "fechaRegistro": "2026-08-10",
+      "idUnico": "suyai_a1_1786391528232"
     }
   }
 }
