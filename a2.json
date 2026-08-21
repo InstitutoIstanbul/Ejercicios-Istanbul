@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-08-14T05:26:13.186Z",
+  "ultimaActualizacion": "2026-08-21T05:25:55.631Z",
   "claves": {
     "adriana760": {
       "nombre": "Adriana",
@@ -136,9 +136,10 @@
     },
     "virginia116": {
       "nombre": "Virginia",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2026-02-19",
-      "idUnico": "virginia_a2_1771533091472"
+      "idUnico": "virginia_a2_1771533091472",
+      "fechaExpiracion": "2026-08-21"
     },
     "sandra799": {
       "nombre": "Sandra",
