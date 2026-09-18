@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-09-18T05:26:00.260Z",
+  "ultimaActualizacion": "2026-09-18T05:26:02.145Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -393,9 +393,10 @@
     },
     "franco315": {
       "nombre": "Franco",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2026-03-16",
-      "idUnico": "franco_a1_1773672538635"
+      "idUnico": "franco_a1_1773672538635",
+      "fechaExpiracion": "2026-09-18"
     },
     "rocio414": {
       "nombre": "Rocio",
