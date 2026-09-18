@@ -1,5 +1,5 @@
 {
-  "ultimaActualizacion": "2026-09-18T05:26:03.481Z",
+  "ultimaActualizacion": "2026-09-18T05:26:05.025Z",
   "claves": {
     "analia376": {
       "nombre": "Analia",
@@ -407,9 +407,10 @@
     },
     "serkino586": {
       "nombre": "Serkino",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2026-03-16",
-      "idUnico": "serkino_a1_1773684852918"
+      "idUnico": "serkino_a1_1773684852918",
+      "fechaExpiracion": "2026-09-18"
     },
     "maria696": {
       "nombre": "Maria",
