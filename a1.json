@@ -366,9 +366,9 @@
     },
     "lucia391": {
       "nombre": "Lucia",
-      "activo": true,
+      "activo": false,
       "fechaRegistro": "2026-03-13",
-      "idUnico": "luc?a_a1_1773429529855"
+      "idUnico": "lucia_a1_1773429529855"
     },
     "valeria558": {
       "nombre": "Valeria",
